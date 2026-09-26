@@ -1,0 +1,4 @@
+1.ParkShare CLI Requirements
+2.This project is built using strictly Core Python fundamentals.
+3.No external third-party libraries or frameworks are required.
+4.Minimum required Python version: Python 3.6+
